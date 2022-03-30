@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice</title>
+ <link rel = "icon" type = "image/png" href = "https://as1.ftcdn.net/v2/jpg/00/88/43/58/1000_F_88435847_HhglbcoGP5qOX3DfudP3hN5z95eTrHqz.jpg">
+ <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+<header>
+    <img src="https://previews.123rf.com/images/bluebay/bluebay1409/bluebay140900035/31543593-w%C3%B6rter-nachrichten-auf-digitalen-rotem-hintergrund.jpg" width="25%" >
+<h1>Your News Today</h1>
+</header>
+<h2>Hottest News Today</h2>
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/220325183937-20222503-fleeing-russia-hero-gfx-super-169.jpg" width="30%" class="img">
+<h3>Putin's war has triggered an exodus out of Russia -- but the escape options are shrinking</h3>
+<h4>"How to leave Russia?" Google searches for this term in Russian hit a 10-year high inside the country within a week of the invasion of Ukraine on February 24.
+
+    From Moscow to the Siberian oil capital of Novosibirsk, and from the intellectual hub of St. Petersburg to the nuclear submarine base of Murmansk, Russians are searching for a way out in anticipation of a grim future in a country torn apart by isolation,
+     censorship and belligerence.</h4>
+<section id="s2">
+<h2>Trending News</h2>
+<article>
+    <img src="//cdn.cnn.com/cnnnext/dam/assets/180404125234-putin-and-orban-hungary-medium-tease.jpg" >
+    <a href="https://edition.cnn.com/2022/03/30/opinions/orban-hungary-election-putin-eu-ben-ghiat/index.html">
+     <h5>Putin's closest ally in the EU faces a key test</h5></a>
+</article>
+<article>
+  <img src="https://cdn.cnn.com/cnnnext/dam/assets/220330085658-02-mariupol-ground-large-tease.jpg" width="15%">
+  <a href="https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-03-30-22/index.html">
+      <h5>Moscow continued strikes on Ukrainian cities where they vowed to 'drastically reduce' activity, while watchdog group says forces used banned landmines</h5></a>
+</article>
+<article>
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/220330045837-cathay-pacific-jfk-file-01232020-large-tease.jpg" width="15%">
+<a href="https://edition.cnn.com/travel/article/cathay-pacific-world-longest-flight-intl-hnk/index.html">
+<h5>Russian airspace rerouting may create a new world's longest flight</h5></a>
+</article>
+<article>
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/220317120651-helsinki-finland-cafe-large-169.jpg" width="15%">
+<a href="https://edition.cnn.com/travel/article/worlds-happiest-countries-2022-wellness/index.html">
+    <h5>World's happiest country for 2022 is revealed</h5></a>
+</article>
+
+</section>
+<footer>  
+<p>You can mail us here! 
+    <a href="mailto:samuelz0998@gmail.com">samuelz0998@gmail.com</a>.<br>
+</p>
+</footer>
+</body>
+</html>
