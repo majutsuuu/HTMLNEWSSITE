@@ -29,6 +29,12 @@ footer{
 .amog{
         box-shadow: 50px;
     }
+        article{
+        width:80%;
+        height: 25vh;
+        margin-left:auto;
+        margin-right:auto;
+    }
     h2{
         text-align: center;
     font-size: xx-large;
