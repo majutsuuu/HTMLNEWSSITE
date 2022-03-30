@@ -22,7 +22,7 @@
 <section id="s2">
 <h2>Trending News</h2>
 <article>
-    <img src="//cdn.cnn.com/cnnnext/dam/assets/180404125234-putin-and-orban-hungary-medium-tease.jpg" >
+    <img src="//cdn.cnn.com/cnnnext/dam/assets/180404125234-putin-and-orban-hungary-medium-tease.jpg" width="15%">
     <a href="https://edition.cnn.com/2022/03/30/opinions/orban-hungary-election-putin-eu-ben-ghiat/index.html">
      <h5>Putin's closest ally in the EU faces a key test</h5></a>
 </article>
