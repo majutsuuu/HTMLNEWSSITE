@@ -11,7 +11,7 @@
 <header>
   <h1>Your News Today</h1>
   <div class="img3">
-<img src="https://previews.123rf.com/images/bluebay/bluebay1409/bluebay140900035/31543593-w%C3%B6rter-nachrichten-auf-digitalen-rotem-hintergrund.jpg" width="25%" >
+<img src="https://www.mfrr.eu/wp-content/uploads/2021/06/President_of_the_United_States_Joe_Biden_2021.jpg" width="25%" >
 <img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Y56C2PN4XNMDJPV2AFIG7HLBFY.jpg" width="24%">
 <img src="https://static.timesofisrael.com/www/uploads/2019/02/F190205NRF30.jpg" width="25%">
 <img src="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220207-donald-trump-ew-408p-11c8c7.jpg" width="25%">
@@ -80,9 +80,11 @@
       <input type="text" placeholder="First name" name="Fname" required>
       <input type="text" placeholder="Last name" name="Lname" required>
       <input type="mail" placeholder="Email address" name="mail" required>
+      <div class="chbox">
       <label>
         <input type="checkbox" checked="checked" name="subscribe"> Daily Newsletter
       </label>
+    </div>
     </div>
   
     <div class="container">
