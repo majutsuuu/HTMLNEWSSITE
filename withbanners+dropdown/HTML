@@ -4,22 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NNC News</title>
- <link rel = "icon" type = "image/png" href = "https://as1.ftcdn.net/v2/jpg/00/88/43/58/1000_F_88435847_HhglbcoGP5qOX3DfudP3hN5z95eTrHqz.jpg">
+ <link rel = "icon" type = "image/png" href = "https://play-lh.googleusercontent.com/LchVM6sALrPaA8tyhF5HeqSuhsbEKrViVUd5FPcJ1MkwydzS-b4R2fdYbyqUSMgTrCFi=s200">
  <link rel="stylesheet" href="stylesheet.css">
 </head>
 <body>
 <header>
-  <h1>Your News Today</h1>
+<h1>Your News Today</h1>
   <div class="img3">
-<img src="https://www.mfrr.eu/wp-content/uploads/2021/06/President_of_the_United_States_Joe_Biden_2021.jpg" width="25%" >
-<img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Y56C2PN4XNMDJPV2AFIG7HLBFY.jpg" width="24%">
-<img src="https://static.timesofisrael.com/www/uploads/2019/02/F190205NRF30.jpg" width="25%">
-<img src="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220207-donald-trump-ew-408p-11c8c7.jpg" width="25%">
-</div>
+      <img src="https://www.mfrr.eu/wp-content/uploads/2021/06/President_of_the_United_States_Joe_Biden_2021.jpg" width="25%" >
+      <img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Y56C2PN4XNMDJPV2AFIG7HLBFY.jpg" width="24%">
+      <img src="https://static.timesofisrael.com/www/uploads/2019/02/F190205NRF30.jpg" width="25%">
+      <img src="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220207-donald-trump-ew-408p-11c8c7.jpg" width="25%">
+  </div>
 </header>
-<div class="nav">
-    <button class="button">Our Social Media!</button>
-    <div class="links">
+  <div class="nav">
+      <button class="button">Our Social Media!</button>
+      <div class="links">
       <a href="https://www.facebook.com/cnn/">Facebook</a>
       <a href="https://www.youtube.com/user/CNN/">Youtube</a>
       <a href="https://www.instagram.com/cnn/">Instagram</a>
@@ -27,47 +27,56 @@
   </div>
 <main>
 <h2>Hottest News Today</h2>
-<img src="https://cdn.cnn.com/cnnnext/dam/assets/220325183937-20222503-fleeing-russia-hero-gfx-super-169.jpg" width="30%" class="img">
-<h3>Putin's war has triggered an exodus out of Russia -- but the escape options are shrinking</h3>
-<h4>"How to leave Russia?" Google searches for this term in Russian hit a 10-year high inside the country within a week of the invasion of Ukraine on February 24.
+     <img src="https://cdn.cnn.com/cnnnext/dam/assets/220325183937-20222503-fleeing-russia-hero-gfx-super-169.jpg" width="30%" class="img">
+  <h3>Putin's war has triggered an exodus out of Russia -- but the escape options are shrinking</h3>
+  <h4>"How to leave Russia?" Google searches for this term in Russian hit a 10-year high inside the country within a week of the invasion of Ukraine on February 24.
 
     From Moscow to the Siberian oil capital of Novosibirsk, and from the intellectual hub of St. Petersburg to the nuclear submarine base of Murmansk, Russians are searching for a way out in anticipation of a grim future in a country torn apart by isolation,
      censorship and belligerence.</h4>
 </main>
-<aside>
-  <a href="https://www.nike.com/il/">
-  <img src="https://i.pinimg.com/564x/1c/82/b2/1c82b2d85efbf01bbb75844425029401.jpg" class="img5"></a>
-  <a href="https://www.pinterest.com/">
-  <img src="https://i.pinimg.com/736x/ae/88/14/ae88149a7626860afd3bb73fef0da136.jpg" class="img6"></a>
-</aside>
-<aside class="imgR">
-<a href="https://www.converse.com/country-language-selector">
-<img src="https://i.pinimg.com/564x/d0/bb/41/d0bb417a59e66d8dfcb7c20baf0aa986.jpg" class="img7"></a>
-<a href="https://www.spotify.com/il-en/">
-<img src="https://i.pinimg.com/564x/7e/b3/3e/7eb33e8263b359ab6f8c8ee0e89c6904.jpg" class="img8"></a>
-</aside>
+  <aside>
+     <a href="https://www.nike.com/il/">
+     <img src="https://i.pinimg.com/564x/1c/82/b2/1c82b2d85efbf01bbb75844425029401.jpg" id="img5"></a>
+     <a href="https://www.pinterest.com/">
+     <img src="https://i.pinimg.com/736x/ae/88/14/ae88149a7626860afd3bb73fef0da136.jpg" id="img5"></a>
+     <a href="https://www.adidas.co.il/he">
+     <img src="https://i.pinimg.com/564x/f2/fe/aa/f2feaa3203de67032f153a2b8d04d679.jpg" id="img5"></a>
+  </aside>
+  <aside class="imgR">
+     <a href="https://www.converse.com/country-language-selector">
+     <img src="https://i.pinimg.com/564x/d0/bb/41/d0bb417a59e66d8dfcb7c20baf0aa986.jpg" id="img6"></a>
+     <a href="https://www.spotify.com/il-en/">
+     <img src="https://i.pinimg.com/564x/7e/b3/3e/7eb33e8263b359ab6f8c8ee0e89c6904.jpg" id="img6"></a>
+     <a href="https://www.adidas.co.il/he">
+     <img src="https://i.pinimg.com/564x/47/6a/35/476a352a0d0662eb2988949429dc44d9.jpg" id="img6"></a>
+  </aside>
 <main>
 <section id="s2">
-  <h2>Trending News</h2>
+<h2>Trending News</h2>
 <article>
-    <img src="//cdn.cnn.com/cnnnext/dam/assets/180404125234-putin-and-orban-hungary-medium-tease.jpg" width="15%">
-    <a href="https://edition.cnn.com/2022/03/30/opinions/orban-hungary-election-putin-eu-ben-ghiat/index.html">
-     <h5>Putin's closest ally in the EU faces a key test</h5></a>
+     <img src="//cdn.cnn.com/cnnnext/dam/assets/180404125234-putin-and-orban-hungary-medium-tease.jpg" width="18%">
+     <a href="https://edition.cnn.com/2022/03/30/opinions/orban-hungary-election-putin-eu-ben-ghiat/index.html">
+<h5>Putin's closest ally in the EU faces a key test</h5></a>
 </article>
 <article>
-  <img src="https://cdn.cnn.com/cnnnext/dam/assets/220330085658-02-mariupol-ground-large-tease.jpg" width="15%">
-  <a href="https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-03-30-22/index.html">
+      <img src="https://cdn.cnn.com/cnnnext/dam/assets/220330085658-02-mariupol-ground-large-tease.jpg" width="18%">
+      <a href="https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-03-30-22/index.html">
       <h5>Moscow continued strikes on Ukrainian cities where they vowed to 'drastically reduce' activity, while watchdog group says forces used banned landmines</h5></a>
 </article>
 <article>
-<img src="https://cdn.cnn.com/cnnnext/dam/assets/220330045837-cathay-pacific-jfk-file-01232020-large-tease.jpg" width="15%">
-<a href="https://edition.cnn.com/travel/article/cathay-pacific-world-longest-flight-intl-hnk/index.html">
-<h5>Russian airspace rerouting may create a new world's longest flight</h5></a>
+      <img src="https://cdn.cnn.com/cnnnext/dam/assets/220330045837-cathay-pacific-jfk-file-01232020-large-tease.jpg" width="18%">
+      <a href="https://edition.cnn.com/travel/article/cathay-pacific-world-longest-flight-intl-hnk/index.html">
+      <h5>Russian airspace rerouting may create a new world's longest flight</h5></a>
 </article>
 <article>
-<img src="https://cdn.cnn.com/cnnnext/dam/assets/220317120651-helsinki-finland-cafe-large-169.jpg" width="15%">
-<a href="https://edition.cnn.com/travel/article/worlds-happiest-countries-2022-wellness/index.html">
-    <h5>World's happiest country for 2022 is revealed</h5></a>    
+      <img src="https://cdn.cnn.com/cnnnext/dam/assets/220317120651-helsinki-finland-cafe-large-169.jpg" width="18%">
+      <a href="https://edition.cnn.com/travel/article/worlds-happiest-countries-2022-wellness/index.html">
+      <h5>World's happiest country for 2022 is revealed</h5></a>    
+</article>
+<article>
+      <img src="https://cdn.cnn.com/cnnnext/dam/assets/220324105213-20220324-morning-joe-morning-runs-v2-large-tease.jpg" width="18%">
+      <a href="https://edition.cnn.com/2022/04/04/health/why-does-coffee-make-you-poop-wellness/index.html">
+      <h5>Why does coffee make you poop? Experts explain</h5></a>
 </article>
 </section>
 </main>
@@ -92,7 +101,7 @@
     </div>
   </form>
 <p>You can mail us here! 
-    <a href="mailto:samuelz0998@gmail.com">samuelz0998@gmail.com</a>.<br>
+      <a href="mailto:samuelz0998@gmail.com">samuelz0998@gmail.com</a>.
 </p>
 </footer>
 </body>
