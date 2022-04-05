@@ -35,11 +35,11 @@ footer{
     }
     aside{
       float:left;
-      width:200px;
+      width:350px;
     }
     .imgR{
       float:right;
-      width:200px;
+      width:350px;
     }
     .img5{
       width:100%;
