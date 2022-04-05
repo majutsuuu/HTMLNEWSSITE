@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NNC News</title>
+ <link rel = "icon" type = "image/png" href = "https://as1.ftcdn.net/v2/jpg/00/88/43/58/1000_F_88435847_HhglbcoGP5qOX3DfudP3hN5z95eTrHqz.jpg">
+ <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+<header>
+  <h1>Your News Today</h1>
+  <div class="img3">
+<img src="https://previews.123rf.com/images/bluebay/bluebay1409/bluebay140900035/31543593-w%C3%B6rter-nachrichten-auf-digitalen-rotem-hintergrund.jpg" width="25%" >
+<img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Y56C2PN4XNMDJPV2AFIG7HLBFY.jpg" width="24%">
+<img src="https://static.timesofisrael.com/www/uploads/2019/02/F190205NRF30.jpg" width="25%">
+<img src="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-02/220207-donald-trump-ew-408p-11c8c7.jpg" width="25%">
+</div>
+</header>
+<div class="nav">
+    <button class="button">Our Social Media!</button>
+    <div class="links">
+      <a href="https://www.facebook.com/cnn/">Facebook</a>
+      <a href="https://www.youtube.com/user/CNN/">Youtube</a>
+      <a href="https://www.instagram.com/cnn/">Instagram</a>
+    </div>
+  </div>
+<main>
+<h2>Hottest News Today</h2>
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/220325183937-20222503-fleeing-russia-hero-gfx-super-169.jpg" width="30%" class="img">
+<h3>Putin's war has triggered an exodus out of Russia -- but the escape options are shrinking</h3>
+<h4>"How to leave Russia?" Google searches for this term in Russian hit a 10-year high inside the country within a week of the invasion of Ukraine on February 24.
+
+    From Moscow to the Siberian oil capital of Novosibirsk, and from the intellectual hub of St. Petersburg to the nuclear submarine base of Murmansk, Russians are searching for a way out in anticipation of a grim future in a country torn apart by isolation,
+     censorship and belligerence.</h4>
+</main>
+<aside>
+  <img src="https://i.pinimg.com/736x/15/03/d9/1503d995c00fde68bab11f13f8862882.jpg" class="img5">
+  <img src="https://i.pinimg.com/564x/6e/ab/f3/6eabf3edbef5511e79bc182d6398dbf7.jpg" class="img6">
+</aside>
+<aside class="imgR">
+<img src="https://i.pinimg.com/564x/d9/11/a2/d911a2ff374290b1458824728191d361.jpg" class="img7">
+<img src="https://i.pinimg.com/564x/7e/b3/3e/7eb33e8263b359ab6f8c8ee0e89c6904.jpg" class="img8">
+</aside>
+<main>
+<section id="s2">
+  <h2>Trending News</h2>
+<article>
+    <img src="//cdn.cnn.com/cnnnext/dam/assets/180404125234-putin-and-orban-hungary-medium-tease.jpg" width="15%">
+    <a href="https://edition.cnn.com/2022/03/30/opinions/orban-hungary-election-putin-eu-ben-ghiat/index.html">
+     <h5>Putin's closest ally in the EU faces a key test</h5></a>
+</article>
+<article>
+  <img src="https://cdn.cnn.com/cnnnext/dam/assets/220330085658-02-mariupol-ground-large-tease.jpg" width="15%">
+  <a href="https://edition.cnn.com/europe/live-news/ukraine-russia-putin-news-03-30-22/index.html">
+      <h5>Moscow continued strikes on Ukrainian cities where they vowed to 'drastically reduce' activity, while watchdog group says forces used banned landmines</h5></a>
+</article>
+<article>
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/220330045837-cathay-pacific-jfk-file-01232020-large-tease.jpg" width="15%">
+<a href="https://edition.cnn.com/travel/article/cathay-pacific-world-longest-flight-intl-hnk/index.html">
+<h5>Russian airspace rerouting may create a new world's longest flight</h5></a>
+</article>
+<article>
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/220317120651-helsinki-finland-cafe-large-169.jpg" width="15%">
+<a href="https://edition.cnn.com/travel/article/worlds-happiest-countries-2022-wellness/index.html">
+    <h5>World's happiest country for 2022 is revealed</h5></a>    
+</article>
+</section>
+</main>
+<footer>
+  <form action="action_page.php">
+    <div class="container">
+      <h6>Get News to Your Mail</h6>
+    </div>
+    <div class="container">
+      <input type="text" placeholder="First name" name="Fname" required>
+      <input type="text" placeholder="Last name" name="Lname" required>
+      <input type="mail" placeholder="Email address" name="mail" required>
+      <label>
+        <input type="checkbox" checked="checked" name="subscribe"> Daily Newsletter
+      </label>
+    </div>
+  
+    <div class="container">
+      <input type="submit" value="Subscribe">
+    </div>
+  </form>
+<p>You can mail us here! 
+    <a href="mailto:samuelz0998@gmail.com">samuelz0998@gmail.com</a>.<br>
+</p>
+</footer>
+</body>
+</html>
